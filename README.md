@@ -1,7 +1,8 @@
 # Data Extraction From Invoices
 
 ## Project Flow
-
+![GitHub Logo](project-flow.png)
+Format: ![Alt Text](url)
 
 ## Technologies used
 * Pre-processing    - OpenCv
