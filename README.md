@@ -1,7 +1,7 @@
 # Data Extraction From Invoices
 
 ## Project Flow
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![project flow](https://github.com/MayurSatav/data-extraction-from-invoices/blob/master/project-flow.png)
 
 ## Technologies used
 * Pre-processing    - OpenCv
